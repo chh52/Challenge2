@@ -28,6 +28,11 @@ After running the app in Git Bash or Terminal, it will ask you to point to the d
 
 ---
 
+## Example
+![example of app running](example.png)
+
+---
+
 ## Contributors
 
 This was created by Cuong Ha
