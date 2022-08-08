@@ -1,0 +1,50 @@
+   39  cd ..
+   40  cd unsolved
+   41  python app.py --credit_score=750 --debt=5000 --income=20000
+   42  python app.py --credit_score=750 --debt=5000 --income=20000
+   43  python app.py --credit_score=750 --debt=5000 --income=20000
+   44  python app.py
+   45  python app.py
+   46  python app.py
+   47  cd ..
+   48  cd ..
+   49  ls
+   50  cd ..
+   51  cd loan_application
+   52  touch readme.md
+   53  cd ..
+   54  cd python_project
+   55  cd challenges
+   56  cd Module_2_Challenge/
+   57  ls
+   58  git clone https://github.com/chh52/Challenge2.git
+   59  ls
+   60  ls
+   61  git status
+   62  git status
+   63  ls
+   64  cd challenge 2
+   65  cd challenge2
+   66  git status
+   67  git add -A
+   68  git status
+   69  git commit -m "initial commit"
+   70  git push
+   71  ls
+   72  cd loan_qualifier_app/
+   73  ls
+   74  python app.py
+   75  ls
+   76  python app.py
+   77  python app.py
+   78  python app.py
+   79  python app.py
+   80  python app.py
+   81  python app.py
+   82  cd ..
+   83  git status
+   84  git add -A
+   85  git status
+   86  git commit -m "finalized code and readme file"
+   87  git push
+   88  history 50 > terminal_history.txt
