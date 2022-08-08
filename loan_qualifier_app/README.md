@@ -1,33 +1,39 @@
-# Project Title
+# Enhanced Loan Qualifier App
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This app determines loan qualification based on user inputs of certain financial data by comparing the user's financial ratios against the daily_rate_sheet.csv which houses various lenders' loan qualification criteria (and change daily).
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+**Python 3.9** was used to code this app.  Libraries used are **Sys, Fire, Questionary, Pathlib and CSV**.
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+use the following code in Git Bash or Terminal to use this app:
+
+```python
+python app.py
+```
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+After running the app in Git Bash or Terminal, it will ask you to point to the daily rate sheet file.  the most recent daily sheet should be contained in:
+
+>./data/daily_rate_sheet.csv
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+This was created by Cuong Ha
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+public
